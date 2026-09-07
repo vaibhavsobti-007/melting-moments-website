@@ -1,11 +1,12 @@
 [
   {
-    "id": "about-01-placeholder",
-    "filename": "about-01-placeholder.jpg",
+    "id": "about-01",
+    "filename": "about-01.jpg",
     "category": "about",
-    "title": "Photographer, golden hour",
-    "alt": "Placeholder photo — photographer shooting at golden hour, back-view, near the coastline",
-    "width": 1600,
+    "title": "Sakshi, behind the lens",
+    "alt": "Sakshi Sobti, founder and photographer of Melting Moments, smiling while holding a camera lens mug, seated in a black dress.",
+    "originalFilename": "IMG_0677_Original.jpg",
+    "width": 1798,
     "height": 2400,
     "order": 0
   }
