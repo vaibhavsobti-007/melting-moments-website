@@ -1,0 +1,92 @@
+[
+  {
+    "id": "graduation-01",
+    "filename": "graduation-01.jpg",
+    "category": "graduation-milestones",
+    "title": "Just starting, and I'm done",
+    "alt": "Two sisters in graduation caps and gowns walk away from the camera holding hand-lettered signs reading \"JUST STARTING!\" and \"I'M DONE\", string lights overhead.",
+    "originalFilename": "8S3A5524-1.jpg",
+    "featured": true,
+    "width": 1600,
+    "height": 2400,
+    "order": 0
+  },
+  {
+    "id": "graduation-02",
+    "filename": "graduation-02.jpg",
+    "category": "graduation-milestones",
+    "title": "Honor sash, golden hour",
+    "alt": "A graduate in a white dress and gold honor sash smiles over her shoulder, backlit by golden hour sun.",
+    "originalFilename": "8S3A5448-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 1
+  },
+  {
+    "id": "graduation-03",
+    "filename": "graduation-03.jpg",
+    "category": "graduation-milestones",
+    "title": "Roses and golden light",
+    "alt": "A young woman in a blue-and-white dress holds a bouquet of white roses, pink blossoms framing her face, backlit by warm porch light.",
+    "originalFilename": "8S3A6124.jpg",
+    "featured": true,
+    "width": 2400,
+    "height": 2386,
+    "order": 2
+  },
+  {
+    "id": "graduation-04",
+    "filename": "graduation-04.jpg",
+    "category": "graduation-milestones",
+    "title": "Stopping to smell the roses",
+    "alt": "Close-up of a young woman smelling a bouquet of white roses, warm golden-hour light in her hair.",
+    "originalFilename": "PHOTO-2026-05-23-10-35-49.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 3
+  },
+  {
+    "id": "graduation-05",
+    "filename": "graduation-05.jpg",
+    "category": "graduation-milestones",
+    "title": "Stone wall, golden hour",
+    "alt": "A young woman in a white dress and cowboy boots leans against a stone wall, glancing back over her shoulder in warm evening light.",
+    "originalFilename": "8S3A5887.jpg",
+    "width": 2004,
+    "height": 2400,
+    "order": 4
+  },
+  {
+    "id": "graduation-06",
+    "filename": "graduation-06.jpg",
+    "category": "graduation-milestones",
+    "title": "Leaning on the fence",
+    "alt": "A young woman in a white dress leans against a stone wall, hair caught by the wind, a building softly blurred behind her.",
+    "originalFilename": "PHOTO-2026-05-23-09-35-06.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 5
+  },
+  {
+    "id": "graduation-07",
+    "filename": "graduation-07.jpg",
+    "category": "graduation-milestones",
+    "title": "Quiet moment, golden light",
+    "alt": "A young woman in a white dress leans against a sunlit stone wall, looking down at her bracelet, soft lens flare across the frame.",
+    "originalFilename": "8S3A5873.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 6
+  },
+  {
+    "id": "graduation-08",
+    "filename": "graduation-08.jpg",
+    "category": "graduation-milestones",
+    "title": "Roses on cobblestone",
+    "alt": "A young woman in a white dress sits on cobblestone pavement holding white roses, golden hour light behind her.",
+    "originalFilename": "8S3A5821.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 7
+  }
+]

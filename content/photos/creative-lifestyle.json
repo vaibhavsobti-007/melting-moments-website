@@ -1,0 +1,69 @@
+[
+  {
+    "id": "creative-01",
+    "filename": "creative-01.jpg",
+    "category": "creative-lifestyle",
+    "title": "Strength, selective color",
+    "alt": "Dramatic selective-color portrait of a woman lifting a dumbbell against a smoky dark backdrop.",
+    "originalFilename": "8S3A7294-1 bwy.jpg",
+    "width": 2400,
+    "height": 2179,
+    "order": 0
+  },
+  {
+    "id": "creative-02",
+    "filename": "creative-02.jpg",
+    "category": "creative-lifestyle",
+    "title": "Between sets",
+    "alt": "A woman rests against a barbell in a gym, looking directly at the camera.",
+    "originalFilename": "8S3A7288-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 1
+  },
+  {
+    "id": "creative-03",
+    "filename": "creative-03.jpg",
+    "category": "creative-lifestyle",
+    "title": "The surprised chef",
+    "alt": "A young girl in a sailor dress and glasses gasps in mock surprise, holding a teacup, seated on a stack of books.",
+    "originalFilename": "IMG_0095.JPG",
+    "width": 2400,
+    "height": 1916,
+    "order": 2
+  },
+  {
+    "id": "creative-04",
+    "filename": "creative-04.jpg",
+    "category": "creative-lifestyle",
+    "title": "One cup love, two cups kisses",
+    "alt": "A young girl in a chef's hat holds a whisk and wooden spoon at a styled baking scene, with a chalkboard recipe reading \"1 cup love, 2 cups kisses, 2 cups of hugs.\"",
+    "originalFilename": "PHOTO-2026-03-07-15-54-49.jpg",
+    "featured": true,
+    "width": 2400,
+    "height": 1600,
+    "order": 3
+  },
+  {
+    "id": "creative-05",
+    "filename": "creative-05.jpg",
+    "category": "creative-lifestyle",
+    "title": "Jet-setter, age five",
+    "alt": "A young girl in a pink dress and heels sits on a pink toy suitcase, chatting on a toy phone.",
+    "originalFilename": "IMG_8679.jpeg",
+    "width": 1575,
+    "height": 2138,
+    "order": 4
+  },
+  {
+    "id": "creative-06",
+    "filename": "creative-06.jpg",
+    "category": "creative-lifestyle",
+    "title": "Striking a pose",
+    "alt": "A young girl in a pink tulle dress and black boots sits sideways on a chair, chin tilted playfully toward the camera.",
+    "originalFilename": "IMG_8703.jpeg",
+    "width": 1600,
+    "height": 2400,
+    "order": 5
+  }
+]

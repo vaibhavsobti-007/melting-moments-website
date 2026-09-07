@@ -1,0 +1,113 @@
+[
+  {
+    "id": "family-01",
+    "filename": "family-01.jpg",
+    "category": "family",
+    "title": "Meeting the twins",
+    "alt": "Black-and-white portrait of a father and young daughter smiling down at newborn twins held by their mother, backlit by a bright window.",
+    "originalFilename": "8S3A4182-1.jpg",
+    "featured": true,
+    "width": 2400,
+    "height": 1942,
+    "order": 0
+  },
+  {
+    "id": "family-02",
+    "filename": "family-02.jpg",
+    "category": "family",
+    "title": "Two, held at once",
+    "alt": "Black-and-white close-up of a father's hands cradling the heads of his newborn twins against his chest.",
+    "originalFilename": "8S3A4184-1 cut.jpg",
+    "width": 2400,
+    "height": 2400,
+    "order": 1
+  },
+  {
+    "id": "family-03",
+    "filename": "family-03.jpg",
+    "category": "family",
+    "title": "Holding both",
+    "alt": "A mother in a flowing white dress holds her newborn twins against her shoulder, soft ethereal backlight.",
+    "originalFilename": "8S3A4138-11.jpg",
+    "width": 2400,
+    "height": 2215,
+    "order": 2
+  },
+  {
+    "id": "family-04",
+    "filename": "family-04.jpg",
+    "category": "family",
+    "title": "Sleeping newborn, styled basket",
+    "alt": "A newborn baby asleep in a woven basket wearing a knit bonnet, surrounded by greenery and a lantern.",
+    "originalFilename": "8S3A1184-1.jpg",
+    "width": 2400,
+    "height": 1569,
+    "order": 3
+  },
+  {
+    "id": "family-05",
+    "filename": "family-05.jpg",
+    "category": "family",
+    "title": "Nose to nose",
+    "alt": "A mother crouches down, playfully touching her young daughter's nose, both laughing in backlit golden light.",
+    "originalFilename": "8S3A5848.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 4
+  },
+  {
+    "id": "family-06",
+    "filename": "family-06.jpg",
+    "category": "family",
+    "title": "Big sister, baby brother",
+    "alt": "A young girl in a pale blue tulle dress reaches out to her baby brother, who wears suspenders and a bow tie, at a birthday balloon backdrop.",
+    "originalFilename": "8S3A4391-1.jpg",
+    "width": 2400,
+    "height": 1740,
+    "order": 5
+  },
+  {
+    "id": "family-07",
+    "filename": "family-07.jpg",
+    "category": "family",
+    "title": "Golden hour, mother and son",
+    "alt": "A mother laughs closely with her toddler son, golden hour light behind them.",
+    "originalFilename": "8S3A1709-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 6
+  },
+  {
+    "id": "family-08",
+    "filename": "family-08.jpg",
+    "category": "family",
+    "title": "Family of three, field",
+    "alt": "A mother, father, and toddler son laughing together in an open field at golden hour.",
+    "originalFilename": "8S3A1671-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 7
+  },
+  {
+    "id": "family-09",
+    "filename": "family-09.jpg",
+    "category": "family",
+    "title": "Family of three, golden light",
+    "alt": "A mother and father laugh with their toddler son, held in his father's arms, backlit by warm evening sun.",
+    "originalFilename": "8S3A1723-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 8
+  },
+  {
+    "id": "family-10",
+    "filename": "family-10.jpg",
+    "category": "family",
+    "title": "Walking through the bluebonnets",
+    "alt": "A mother and daughter, both in white dresses, walk hand in hand through a Texas bluebonnet field at sunset.",
+    "originalFilename": "8S3A7481-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 9
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "birthday-01",
+    "filename": "birthday-01.jpg",
+    "category": "birthday-milestones",
+    "title": "Captain for a day",
+    "alt": "A one-year-old boy in suspenders and a bow tie holds a wooden oar, standing in a wooden crate with a nautical \"ONE\" birthday backdrop.",
+    "originalFilename": "8S3A4423-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 0
+  },
+  {
+    "id": "birthday-02",
+    "filename": "birthday-02.jpg",
+    "category": "birthday-milestones",
+    "title": "Ready to set sail",
+    "alt": "A one-year-old boy in a newsboy cap sits in a wooden crate surrounded by nautical birthday props and blue balloons.",
+    "originalFilename": "8S3A4309-1.jpg",
+    "width": 2400,
+    "height": 1485,
+    "order": 1
+  },
+  {
+    "id": "birthday-03",
+    "filename": "birthday-03.jpg",
+    "category": "birthday-milestones",
+    "title": "Milk bath, from above",
+    "alt": "Overhead view of a one-year-old boy laughing in a milk bath scattered with orange slices, surrounded by a blue and white balloon garland.",
+    "originalFilename": "8S3A4701-11.jpg",
+    "width": 2400,
+    "height": 1600,
+    "order": 2
+  },
+  {
+    "id": "birthday-04",
+    "filename": "birthday-04.jpg",
+    "category": "birthday-milestones",
+    "title": "Milk bath laughter",
+    "alt": "A one-year-old boy laughs joyfully in a milk bath, holding an orange slice, blue balloon garland behind him.",
+    "originalFilename": "8S3A4748-1.jpg",
+    "width": 2400,
+    "height": 1600,
+    "order": 3
+  },
+  {
+    "id": "birthday-05",
+    "filename": "birthday-05.jpg",
+    "category": "birthday-milestones",
+    "title": "Milk bath, side laugh",
+    "alt": "A one-year-old boy laughs with his eyes closed in a milk bath scattered with orange slices.",
+    "originalFilename": "8S3A4761-1.jpg",
+    "width": 2400,
+    "height": 1600,
+    "order": 4
+  },
+  {
+    "id": "birthday-06",
+    "filename": "birthday-06.jpg",
+    "category": "birthday-milestones",
+    "title": "Cake on the cheek",
+    "alt": "Close-up of a one-year-old boy smiling directly at the camera with birthday cake on his cheek, warm balloon backdrop.",
+    "originalFilename": "8S3A4605-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 5
+  },
+  {
+    "id": "birthday-07",
+    "filename": "birthday-07.jpg",
+    "category": "birthday-milestones",
+    "title": "Crawling to the cake",
+    "alt": "A one-year-old boy in a blue romper crawls eagerly toward his birthday cake, balloon garland overhead.",
+    "originalFilename": "8S3A4533-1.jpg",
+    "width": 2400,
+    "height": 1630,
+    "order": 6
+  },
+  {
+    "id": "birthday-08",
+    "filename": "birthday-08.jpg",
+    "category": "birthday-milestones",
+    "title": "Little sailor, bucket hat",
+    "alt": "A one-year-old boy in a denim bucket hat sits in a wooden crate with nautical birthday props.",
+    "originalFilename": "8S3A4293-1.jpg",
+    "width": 2400,
+    "height": 1600,
+    "order": 7
+  }
+]

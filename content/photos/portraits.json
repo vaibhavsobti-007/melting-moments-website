@@ -1,0 +1,36 @@
+[
+  {
+    "id": "portrait-01",
+    "filename": "portrait-01.jpg",
+    "category": "portraits",
+    "title": "Bluebonnet field",
+    "alt": "A young girl in a straw hat sits laughing in a Texas bluebonnet field at golden hour.",
+    "originalFilename": "8S3A7465-1.jpg",
+    "featured": true,
+    "width": 2400,
+    "height": 2386,
+    "order": 0
+  },
+  {
+    "id": "portrait-02",
+    "filename": "portrait-02.jpg",
+    "category": "portraits",
+    "title": "Brick wall, big smile",
+    "alt": "A woman in a green top smiles warmly from behind a brick wall corner, sunlight on her face.",
+    "originalFilename": "8S3A6957-1.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 1
+  },
+  {
+    "id": "portrait-03",
+    "filename": "portrait-03.jpg",
+    "category": "portraits",
+    "title": "Autumn field, tulle and tulips",
+    "alt": "A young girl in a lavender tulle dress sits at the base of a tree in a golden autumn field, surrounded by yellow tulips and a lantern.",
+    "originalFilename": "8S3A2229-1.jpg",
+    "width": 2004,
+    "height": 2400,
+    "order": 2
+  }
+]

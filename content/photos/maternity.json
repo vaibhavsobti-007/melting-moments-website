@@ -1,0 +1,70 @@
+[
+  {
+    "id": "maternity-01",
+    "filename": "maternity-01.jpg",
+    "category": "maternity",
+    "title": "Golden hour, hands on the belly",
+    "alt": "A pregnant woman in a flowing white dress stands in a sunlit clearing, hands cradling her belly, backlit by a golden sunburst.",
+    "originalFilename": "8S3A2920.jpg",
+    "featured": true,
+    "width": 1600,
+    "height": 2400,
+    "order": 0
+  },
+  {
+    "id": "maternity-02",
+    "filename": "maternity-02.jpg",
+    "category": "maternity",
+    "title": "By the water",
+    "alt": "A pregnant woman in a white dress stands near a pond at golden hour, one hand resting on her belly, soft light behind her.",
+    "originalFilename": "8S3A3090.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 1
+  },
+  {
+    "id": "maternity-03",
+    "filename": "maternity-03.jpg",
+    "category": "maternity",
+    "title": "A quiet look down",
+    "alt": "A pregnant woman in a white dress stands in profile, looking down tenderly at her belly, warm backlight through the trees.",
+    "originalFilename": "8S3A2926.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 2
+  },
+  {
+    "id": "maternity-04",
+    "filename": "maternity-04.jpg",
+    "category": "maternity",
+    "title": "On the dock, dusk",
+    "alt": "A pregnant woman in a white dress sits on a wooden dock, holding her belly, cooler dusk light and a weathered wood backdrop.",
+    "originalFilename": "8S3A3245.jpg",
+    "width": 1600,
+    "height": 2400,
+    "order": 3
+  },
+  {
+    "id": "maternity-05",
+    "filename": "maternity-05.jpg",
+    "category": "maternity",
+    "title": "The whole family",
+    "alt": "A pregnant woman, her husband, and their young daughter share a laugh together outdoors at golden hour, the daughter reaching for her mother's belly.",
+    "originalFilename": "8S3A2961.jpg",
+    "featured": true,
+    "width": 1600,
+    "height": 2400,
+    "order": 4
+  },
+  {
+    "id": "maternity-06",
+    "filename": "maternity-06.jpg",
+    "category": "maternity",
+    "title": "Blue gown, in motion",
+    "alt": "A pregnant woman in a royal blue lace gown smiles at the camera as the dress's long chiffon train catches the wind across a grassy field.",
+    "originalFilename": "IMG_6591.jpg",
+    "width": 1320,
+    "height": 1003,
+    "order": 5
+  }
+]
