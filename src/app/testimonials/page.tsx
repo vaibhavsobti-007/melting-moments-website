@@ -22,14 +22,14 @@ export default function TestimonialsPage() {
           Kind words
         </h1>
         <p className="mt-4 max-w-xl text-base text-paper/70 sm:text-lg">
-          A few notes from clients, shared from Instagram.
+          A few notes from clients, shared on Instagram and Facebook.
         </p>
       </Reveal>
 
       <Reveal className="mt-14 divide-y divide-line border-y border-line">
         {testimonials.map((testimonial) => (
           <figure key={testimonial.id} className="py-12">
-            <blockquote className="max-w-2xl font-display text-3xl italic leading-relaxed text-paper sm:text-4xl">
+            <blockquote className="max-w-2xl font-display text-lg font-normal italic leading-relaxed text-paper sm:text-xl">
               &ldquo;{testimonial.quote}&rdquo;
             </blockquote>
             <figcaption className="mt-5 text-sm uppercase tracking-[0.12em] text-paper/70">

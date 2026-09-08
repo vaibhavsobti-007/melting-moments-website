@@ -31,9 +31,6 @@ export function Footer() {
             <a href={`mailto:${site.email}`} className="transition-colors hover:text-paper">
               {site.email}
             </a>
-            <a href={`tel:${site.phone}`} className="transition-colors hover:text-paper">
-              {site.phone}
-            </a>
             <a
               href={site.instagram.url}
               target="_blank"

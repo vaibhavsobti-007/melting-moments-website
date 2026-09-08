@@ -21,6 +21,11 @@ export const site = {
     handle: "@meltingmomentsbysakshi",
     url: "https://instagram.com/meltingmomentsbysakshi",
   },
+  // Phone number is intentionally not displayed anywhere on the site —
+  // this link only opens a WhatsApp chat, it never renders the digits as text.
+  whatsapp: {
+    url: "https://wa.me/14694277343",
+  },
   social: [
     { label: "Instagram", url: "https://instagram.com/meltingmomentsbysakshi" },
   ],

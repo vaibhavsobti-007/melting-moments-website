@@ -3,37 +3,42 @@ import type { Testimonial } from "@/types";
 /**
  * Client testimonials shown on /testimonials.
  *
- * These are placeholders on purpose — every quote below says so directly,
- * because a fake-but-plausible quote could be mistaken for a real client
- * review by someone visiting the live site. Replace each one with an actual
- * comment or DM from Instagram (with the commenter's permission to feature
- * it) before launch. See README.md → "Add a testimonial" for the workflow.
+ * Real quotes, sourced from actual Facebook/Instagram reviews and DMs.
  */
 export const testimonials: Testimonial[] = [
   {
-    id: "placeholder-1",
+    id: "deepali-bohra",
     quote:
-      "This is a placeholder. Replace it with a real comment from your Instagram page — copy the client's exact wording.",
-    author: "Add the client's name",
-    source: "Instagram",
+      "Melting moments photography by Sakshi is so amazing to work with. Thank you so much Sakshi. This was a very big moment for all of us that you captured remarkably and you made it so easy, relaxing, comfortable and memorable with your calm and awesomeness. Your imagination and attention to our needs and all the little details was commendable. We all are very happy and satisfied with the photo shoot.",
+    author: "Deepali Bohra",
+    source: "Facebook",
     featured: true,
     order: 0,
   },
   {
-    id: "placeholder-2",
+    id: "amrita-anand",
     quote:
-      "Another placeholder slot. Screenshot or copy a genuine comment from a tagged post or DM, with permission to share it here.",
-    author: "Add the client's name",
-    source: "Instagram",
+      "Photoshoot with Sakshi is a wonderful experience. Thank you Sakshi for making our special moment memorable. Photographs are simply gorgeous. I would highly recommend her and appreciate her work very much.",
+    author: "Amrita Anand",
+    source: "Facebook",
+    featured: true,
     order: 1,
   },
   {
-    id: "placeholder-3",
+    id: "family-royal-theme",
     quote:
-      "A third placeholder — remove this one entirely if you only have two real testimonials ready to publish.",
-    author: "Add the client's name",
+      "I've received our last family photoshoot pictures from Sakshi and they are amazing! Ankit and I couldn't recommend her enough. I must say, Sakshi is very friendly, welcoming and professional and was so good at capturing natural, candid shots of us. The royal theme of our last photoshoot especially the kids' pictures with all the editing and props that she arranged were so well captured to cherish them forever. Thank you so much. Looking forward to our next shoot soon.",
+    author: "Smita Gupta",
     source: "Instagram",
     order: 2,
+  },
+  {
+    id: "daughter-first-birthday",
+    quote:
+      "Amazing experience with Sakshi.. my daughter's first bday is so much memorable now... Sakshi captured her so beautifully... Very creative, patient and so open for ideas. Make this lockdown memorable for good reasons... get clicked at the comfort of our own society.",
+    author: "Shradha",
+    source: "Instagram",
+    order: 3,
   },
 ];
 

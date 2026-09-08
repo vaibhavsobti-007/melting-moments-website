@@ -42,7 +42,6 @@ export function personJsonLd() {
     name: site.brand,
     description: site.description,
     email: site.email,
-    telephone: site.phone,
     url: site.url,
     areaServed: site.location,
     sameAs: site.social.map((s) => s.url),
